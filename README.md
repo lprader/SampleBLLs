@@ -6,8 +6,8 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 
 ***
 
-### <a href="linktosample">button</a>
-<a href="linktosample"><img src="https://www.adafruit.com/images/970x728/1010-03.jpg" height="100" alt=""/></a>
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/button.js">Button</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/button.js"><img src="https://www.adafruit.com/images/970x728/1010-03.jpg" height="100" alt=""/></a>
 
 - Available on [Adafruit](https://www.adafruit.com/products/1010)
 - Works on Kinoma Create and Kinoma Element
@@ -15,8 +15,8 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 
 ***
 
-### <a href="linktosample">diffused-led</a>
-<a href="linktosample"><img src="https://cdn.sparkfun.com//assets/parts/6/5/5/8/11121-01a.jpg" height="100" alt=""/></a>
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/led.js">Diffused LED</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/led.js"><img src="https://cdn.sparkfun.com//assets/parts/6/5/5/8/11121-01a.jpg" height="100" alt=""/></a>
 
 - Available on [SparkFun](https://www.sparkfun.com/products/11121)
 - Works on Kinoma Create and Kinoma Element
@@ -25,8 +25,8 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 ***
 
 
-### <a href="linktosample">mini-photocell</a>
-<a href="linktosample"><img src="https://cdn.sparkfun.com//assets/parts/2/4/6/2/09088-02-L.jpg" height="100" alt=""/></a>
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/mini-photocell.js">Mini Photocell</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/mini-photocell.js"><img src="https://cdn.sparkfun.com//assets/parts/2/4/6/2/09088-02-L.jpg" height="100" alt=""/></a>
 
 - Available on [SparkFun](https://www.sparkfun.com/products/9088)
 - Works on Kinoma Create and Kinoma Element
@@ -34,8 +34,8 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 
 ***
 
-### <a href="linktosample">pwm-tricolor-led</a>
-<a href="linktosample"><img src="https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-01a.jpg" height="100" alt=""/></a>
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/pwm-tricolor-led.js">PWM Tricolor LED</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/pwm-tricolor-led.js"><img src="https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-01a.jpg" height="100" alt=""/></a>
 
 - Available on [SparkFun](https://www.sparkfun.com/products/11120)
 - Works on Kinoma Create and Kinoma Element
