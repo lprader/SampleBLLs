@@ -4,6 +4,16 @@ The **Sample BLLs** folder of this repository contains BLLs for the specific sen
 
 In the **Sample Projects** folder you will find full KinomaJS applications that use a selection of the BLLs. These samples are linked to below as well.
 
+
+***
+
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/ADXL335.js">ADXL335 Triple Axis Accelerometer</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/ADXL335.js"><img src="http://www.kinoma.com/develop/documentation/technotes/images/sensor_pack/sensor_pack_clip_image012.png" height="100" alt=""/></a>
+
+- Available on [SparkFun](https://www.sparkfun.com/products/9269)
+- Works on Kinoma Create and Kinoma Element
+- [Sample project for Kinoma Element](https://github.com/lprader/SampleBLLs/tree/master/Sample%20Projects/element-ADXL335) xxx
+
 ***
 
 ### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/button.js">Button</a>
@@ -40,6 +50,15 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 - Available on [SparkFun](https://www.sparkfun.com/products/11120)
 - Works on Kinoma Create and Kinoma Element
 - [Sample project for Kinoma Element](https://github.com/lprader/SampleBLLs/tree/master/Sample%20Projects/element-pwm-tricolor-led) provides a small array of sample colors and changes the color of the LED to a selected color upon configuration.
+
+***
+
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/TMP102.js">TMP102 Temperature Sensor</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/TMP102.js"><img src="https://cdn.sparkfun.com//assets/parts/8/3/9/5/11931-01.jpg" height="100" alt=""/></a>
+
+- Available on [SparkFun](https://www.sparkfun.com/products/11931)
+- Works on Kinoma Create and Kinoma Element
+- [Sample project for Kinoma Element](https://github.com/lprader/SampleBLLs/tree/master/Sample%20Projects/element-TMP102) configures sensor and traces the temperature every half a second. BLL allows you to select whether you want the reading in Fahrenheit or Celsius.
 
 ***
 
