@@ -4,7 +4,7 @@ The **Sample BLLs** folder of this repository contains BLLs for the specific sen
 
 In the **Sample Projects** folder you will find full KinomaJS applications that use a selection of the BLLs. These samples are linked to below as well.
 
-
+<!--
 ***
 
 ### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/ADXL335.js">ADXL335 Triple Axis Accelerometer</a>
@@ -13,6 +13,7 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 - Available on [SparkFun](https://www.sparkfun.com/products/9269)
 - Works on Kinoma Create and Kinoma Element
 - [Sample project for Kinoma Element](https://github.com/lprader/SampleBLLs/tree/master/Sample%20Projects/element-ADXL335) xxx
+-->
 
 ***
 
