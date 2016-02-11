@@ -63,6 +63,15 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 
 ***
 
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/TCS34725.js">TCS34725 Color Sensor</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/TCS34725.js"><img src="https://www.adafruit.com/images/145x109/1334-00.jpg" height="100" alt=""/></a>
+
+- Available on [Adafruit](https://www.adafruit.com/products/1334)
+- Works on Kinoma Create and Kinoma Element
+- [Sample project for Kinoma Element](https://github.com/lprader/SampleBLLs/tree/master/Sample%20Projects/element-TCS34725) configures sensor and traces the rgb color data every two seconds. BLL also let's you configure the onboard led light. 
+
+***
+
 ##Additional resources:
 
 - [Pins module documentation](http://kinoma.com/develop/hack/pins-module/) - A detailed document that explains how to configure/interact with pins. Also shows how to share and discover BLLs so pins can be read and controlled remotely.
