@@ -54,6 +54,15 @@ In the **Sample Projects** folder you will find full KinomaJS applications that 
 
 ***
 
+### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/Servo.js">PWM Continuous Servo</a>
+<a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/pwm-Servo.js"><img src="https://a.pololu-files.com/picture/0J2319.200.jpg?dec5179c967964c1e1b2f033c50b2035" height="100" alt=""/></a>
+
+- Available on [Pololu](https://www.pololu.com/product/1248)
+- Works on Kinoma Create and Kinoma Element
+- [Sample project for Kinoma Element](https://github.com/lprader/SampleBLLs/tree/master/Sample%20Projects/element-servo) shows how to turn this continuous rotation servo clockwise, and anti-clockwise.
+
+***
+
 ### <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/TMP102.js">TMP102 Temperature Sensor</a>
 <a href="https://github.com/lprader/SampleBLLs/blob/master/Sample%20BLLs/TMP102.js"><img src="https://cdn.sparkfun.com//assets/parts/8/3/9/5/11931-01.jpg" height="100" alt=""/></a>
 
